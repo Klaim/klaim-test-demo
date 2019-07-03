@@ -1,6 +1,6 @@
 : 1
 name: klaim-test-demo
-version: 1.3.0+1
+version: 1.4.0-a.0.z
 summary: kikoolol C++ executable
 license: proprietary
 description-file: README.md
