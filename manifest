@@ -1,6 +1,6 @@
 : 1
 name: kikoolol
-version: 0.4.0-a.0.z
+version: 1.0.0
 summary: kikoolol C++ executable
 license: proprietary
 description-file: README.md
